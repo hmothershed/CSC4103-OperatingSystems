@@ -1,10 +1,8 @@
 /*
- * Harmony Mothershed           891953341
+ * Harmony Mothershed 
  * hmothe1@lsu.edu
  * PA-1 (Multithreading)
  * Feng Chen
- * cs4103-sp23
- * cs410349
  */
 
 import java.io.*;
