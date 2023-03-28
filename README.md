@@ -1,4 +1,4 @@
-# CSC4103-OperatingSystems
+# CSC 4103 - Operating Systems
 This repository is to hold all of my coding assignments from course CSC 4103
 
 *Textbook: Operating System Concepts, 8.5th Edition or newer (Silberschatz, Galvin, and Gagne; 2008, 2011, or 2012).*
